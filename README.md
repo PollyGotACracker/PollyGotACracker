@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Polly%20Got%20A%20Cracker!&animation=twinkling)
-  
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PollyGotACracker&show_icons=true&theme=nord&custom_title=GitHub%20Stats&hide_border=true"></a>
 
+<div align="center">  
+<a href="#"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=PollyGotACracker&show_icons=true&theme=nord&custom_title=GitHub%20Stats&hide_border=true"></a>
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyGotACracker&layout=compact&theme=nord&hide_border=true"></a>
+</div>
 
-<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=PollyGotACracker&theme=gruvbox&row=1&no-bg=true&no-frame=true"></a>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PollyGotACracker&theme=gruvbox&row=1&no-bg=true&no-frame=true">
+</div>
