@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPollyGotACracker%2Fhit-counter&count_bg=%2320232a&title_bg=%2320232a&icon=&icon_color=%2361dafb&title=hits&edge_flat=false)  
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PollyGotACracker&theme=react)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PollyGotACracker&show_icons=true&theme=react)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PollyGotACracker&theme=dark&layout=compact)  
 
