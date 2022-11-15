@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Polly%20Got%20A%20Cracker!&fontSize=80)
-# Summary
-### :parrot: Polly Wants More!
+
+:parrot: But Polly Wants More!
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPollyGotACracker%2Fhit-counter&count_bg=%2320232a&title_bg=%2320232a&icon=&icon_color=%2361dafb&title=hits&edge_flat=false)  
   
