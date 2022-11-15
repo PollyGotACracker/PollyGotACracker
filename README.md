@@ -12,15 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20to%20Polly%20Got%20A%20Cracker!&fontSize=50)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Polly%20Got%20A%20Cracker!&fontSize=80)
 # Summary
 ### :parrot: Polly Wants More!
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPollyGotACracker%2Fhit-counter&count_bg=%2320232a&title_bg=%2320232a&icon=&icon_color=%2361dafb&title=hits&edge_flat=false)  
   
-<a href="/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PollyGotACracker&show_icons=true&theme=react&hide_border=true"></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PollyGotACracker&show_icons=true&theme=react&hide_border=true"></a>
 
-<a href="/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyGotACracker&layout=compact&theme=react&hide_border=true"></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyGotACracker&layout=compact&theme=react&hide_border=true"></a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=PollyGotACracker&theme=onedark&row=1)
