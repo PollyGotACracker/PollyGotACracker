@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyGotACracker&layout=compact&theme=react&hide_border=true"></a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PollyGotACracker&theme=onedark&row=1)
+<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=PollyGotACracker&theme=gruvbox&row=1&no-bg=true&no-frame=true"></a>
