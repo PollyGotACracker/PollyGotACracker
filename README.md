@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Polly%20Got%20A%20Cracker!&animation=twinkling">
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Polly%20Got%20A%20Cracker!&animation=twinkling">
 
 <h5 align="center">:parrot: But Polly Wants More!</h5>
 
