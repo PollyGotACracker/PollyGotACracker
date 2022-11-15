@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Polly%20Got%20A%20Cracker!&animation=twinkling">
+[!header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Polly%20Got%20A%20Cracker!&animation=twinkling)
 
-<h5 align="center">:parrot: But Polly Wants More!</h5>
-
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPollyGotACracker%2Fhit-counter&count_bg=%2320232a&title_bg=%2320232a&icon=&icon_color=%2361dafb&title=hits&edge_flat=false"> 
+<!--
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPollyGotACracker%2Fhit-counter&count_bg=%2320232a&title_bg=%2320232a&icon=&icon_color=%2361dafb&title=hits&edge_flat=false">
+-->
   
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PollyGotACracker&show_icons=true&theme=react&custom_title=GitHub%20Stats&hide_border=true"></a>
 
