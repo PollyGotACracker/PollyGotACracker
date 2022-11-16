@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="#"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=PollyGotACracker&show_icons=true&theme=nord&custom_title=GitHub%20Stats&hide_border=true&card_width=412px"></a>
 <a href="#"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyGotACracker&layout=compact&theme=nord&hide_border=true"></a>
 </div>
-
+<br />
 <div align="center">
 <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=PollyGotACracker&theme=gruvbox&row=1&no-bg=true&no-frame=true"></a>
 </div>
