@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-!header(https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Polly%20Got%20A%20Cracker!&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Polly%20Got%20A%20Cracker!&animation=twinkling">
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=PollyGotACracker&theme=gruvbox&row=1&no-bg=true&no-frame=true">
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <a href="#"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyGotACracker&layout=compact&theme=nord&hide_border=true"></a>
 </div>
 
-!Footer(https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer">
