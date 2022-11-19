@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 </div>
 <br />
 <div align="center">
-<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=PollyGotACracker&theme=gruvbox&row=1&no-bg=true&no-frame=true"></a>
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=PollyGotACracker&theme=gruvbox&no-bg=true&no-frame=true"></a>
 </div>
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"></a>
