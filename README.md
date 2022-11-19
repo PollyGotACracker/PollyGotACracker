@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Polly%20Got%20A%20Cracker!&animation=twinkling"></a>
-
 <div align="center">  
 <a href="#"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=PollyGotACracker&show_icons=true&theme=nord&custom_title=GitHub%20Stats&hide_border=true&card_width=412px"></a>
 <a href="#"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyGotACracker&layout=compact&theme=nord&hide_border=true"></a>
@@ -22,5 +21,4 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=PollyGotACracker&theme=gruvbox&row=1&no-bg=true&no-frame=true"></a>
 </div>
-
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"></a>
