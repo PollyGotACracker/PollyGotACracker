@@ -1,4 +1,4 @@
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Polly%20Got%20A%20Cracker!&animation=twinkling" width="100%"/></a>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=Polly%20Got%20A%20Cracker!&animation=fadeIn&fontAlign=70&fontSize=40" width="100%"/></a>
 
 <div align="center">
  <h3>🌾 Stacks</h3>
@@ -40,4 +40,4 @@
 <div align="center">
  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=PollyGotACracker&theme=nord&no-frame=true"/></a>
 </div>
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/></a>
+
