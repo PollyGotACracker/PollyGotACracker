@@ -9,7 +9,7 @@
     </div>
     <div>
         <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Mock Service Worker-FF6A33?style=flat-square&logo=MockServiceWorker&logoColor=white"/>
     </div>
     <div>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
