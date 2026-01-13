@@ -34,19 +34,3 @@
         <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
     </div>
 </div>
-<br />
-<br />
-<div align="center">
-    <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=PollyGotACracker&show_icons=true&theme=nord&custom_title=GitHub%20Stats&hide_border=true&card_width=412px" height="161px"/>
-    </a>
-    <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollyGotACracker&layout=compact&theme=nord&hide_border=true" height="161px"/>
-    </a>
-</div>
-<br />
-<div align="center">
-    <a href="#">
-        <img src="https://github-profile-trophy.vercel.app/?username=PollyGotACracker&theme=nord&no-frame=true"/>
-    </a>
-</div>
