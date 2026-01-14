@@ -33,4 +33,5 @@
         <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
     </div>
+    <a href="https://github.com/bitterns/" target="_blank">https://github.com/bitterns</a>
 </div>
